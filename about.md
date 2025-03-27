@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Hi! I'm an Android developer.
 
-Actually, it has the same layout of a post...
+Throughout university, I've learned Java.
