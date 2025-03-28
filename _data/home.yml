@@ -38,7 +38,7 @@ old_project_entries:
 
 footer_entries:
   - title: contact
-  url: https://github.com/rng350
+    url: https://github.com/rng350
 
 misc_entries:
   - title: this is an example vertical list
