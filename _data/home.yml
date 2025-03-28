@@ -12,7 +12,7 @@ project_entries:
   - title: PetLogger
     url: https://github.com/rng350/PetLogger
     desc: Android app for monitoring pet health
-	highlight: WIP
+    highlight: WIP
 
   - title: MediaTracker
     url: https://github.com/rng350/MediaTracker
