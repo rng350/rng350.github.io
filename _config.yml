@@ -2,7 +2,7 @@ title: Robert Nguyen
 author: Robert Nguyen
 url: https://rng350.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Android developer
+  I'm a software developer who mostly works with Kotlin, Java, and C++, usually on Android apps or game-related projects. I like building things that feel solid and work well, without overcomplicating them. I also tinker with other parts of software when it's interesting or useful—backend, tools, whatever solves the problem.
 
 permalink: /:slug
 
